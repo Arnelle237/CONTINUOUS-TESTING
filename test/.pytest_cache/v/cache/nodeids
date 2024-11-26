@@ -1,0 +1,7 @@
+[
+  "test_password.py::test_password",
+  "test_sample.py::test_answer",
+  "test_user_functions.py::test_email_with_user_input_no_at_sign",
+  "test_username.py::test_check",
+  "test_username.py::test_user_name"
+]

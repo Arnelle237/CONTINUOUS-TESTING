@@ -1,0 +1,15 @@
+
+#the listed extensions will be ignore
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Test results
+*.log
